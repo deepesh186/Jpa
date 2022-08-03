@@ -10,6 +10,7 @@ public class Sort {
 		System.out.println("hi deepesh");
 		System.out.println("hi deepesh");
 		System.out.println("hi manali");
+		System.out.println("hi deep");
 		// TODO Auto-generated method stub
 		int[]  l={3, 7, 2, 3, 7, 5, 5, 1};
 	
